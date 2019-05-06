@@ -1,3 +1,4 @@
 NEW!!!
 Some text content.
 Текст с гитхаба для первого коммита.
+Text for GH commit 2
