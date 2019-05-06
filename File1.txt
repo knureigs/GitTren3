@@ -3,3 +3,5 @@ Some text content.
 Привет!
 Текст с гитхаба для первого коммита.
 Text for GH commit 2
+
+Text for GH commit 3
