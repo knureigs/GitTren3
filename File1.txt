@@ -6,3 +6,6 @@ Text for GH commit 2
 
 Text for GH commit 3
 Text for GH commit 4
+
+
+Изменения 3
